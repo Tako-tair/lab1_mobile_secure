@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab1_mobile_secure</string>
+    <string name="button_name">Encrypt</string>
+    <string name="button_file">Read File</string>
+</resources>
